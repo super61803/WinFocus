@@ -2,6 +2,10 @@
 
 A lightweight focus utility for Windows that dims everything on screen except the active window. Built with Rust and the Win32 API.
 
+## Download
+
+[WinFocus.exe](https://github.com/super61803/Cxspsa-BE/raw/main/dist/WinFocus.exe)
+
 ## Prerequisites
 
 - Windows 10 or 11
